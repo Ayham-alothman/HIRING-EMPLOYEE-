@@ -1,0 +1,97 @@
+.wallpaper{
+
+background-color: #fec107;
+height: 100vh;
+
+}
+
+.form{
+
+    width: 50%;
+    height: 75%;
+    background-color: white;
+    position: relative;
+    left: 301px;
+    top: 30px;
+    border-radius: 16px;
+
+    padding-left: 39px;
+    /* page-break-after: always; */
+    padding-top: 10px;
+}
+
+.form .title{
+
+    text-align: center;
+    color: #fec107;
+    
+    padding-bottom: 31px;
+}
+
+
+.selectoption{
+
+
+    display: flex;
+    /* margin-bottom: 10px; */
+    /* padding-top: 10px; */
+    padding-bottom: 10px;
+}
+.selectoption p{
+
+    margin-right: 8px;
+}
+
+.inputform{
+
+margin: 10px;
+
+}
+
+.inputform label{
+
+    margin-right: 50px;
+
+}
+
+.inputform input{
+
+    font-size: 16px;
+    border-radius: 10px;
+    height: 27px;
+}
+
+#inputwork{
+
+    position: relative;
+    right: 20px;
+}
+
+    
+   
+  .dateform{
+
+        margin: 10px;
+        padding-top: 10px;
+    }
+
+
+    .dateform label{
+        margin-right: 29px;
+    }
+
+    .fileform{
+        margin: 10px;
+        padding-top: 10px;
+    }
+
+
+    .btnform{margin: 10px;}
+
+    .btnform input {
+        position: relative;
+        left: 103px;
+        top: 10px;
+        font-size: 23px;
+        /* background-color: red; */
+    }
